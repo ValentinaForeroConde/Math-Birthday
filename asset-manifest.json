@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Math-Birthday/static/css/main.a02dad8d.chunk.css",
-    "main.js": "/Math-Birthday/static/js/main.080f7760.chunk.js",
-    "main.js.map": "/Math-Birthday/static/js/main.080f7760.chunk.js.map",
+    "main.css": "/Math-Birthday/static/css/main.e7a65272.chunk.css",
+    "main.js": "/Math-Birthday/static/js/main.04e39d22.chunk.js",
+    "main.js.map": "/Math-Birthday/static/js/main.04e39d22.chunk.js.map",
     "runtime-main.js": "/Math-Birthday/static/js/runtime-main.46bed164.js",
     "runtime-main.js.map": "/Math-Birthday/static/js/runtime-main.46bed164.js.map",
     "static/js/2.0f63c3c6.chunk.js": "/Math-Birthday/static/js/2.0f63c3c6.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.007bf5f0.chunk.js": "/Math-Birthday/static/js/3.007bf5f0.chunk.js",
     "static/js/3.007bf5f0.chunk.js.map": "/Math-Birthday/static/js/3.007bf5f0.chunk.js.map",
     "index.html": "/Math-Birthday/index.html",
-    "static/css/main.a02dad8d.chunk.css.map": "/Math-Birthday/static/css/main.a02dad8d.chunk.css.map",
+    "static/css/main.e7a65272.chunk.css.map": "/Math-Birthday/static/css/main.e7a65272.chunk.css.map",
     "static/js/2.0f63c3c6.chunk.js.LICENSE.txt": "/Math-Birthday/static/js/2.0f63c3c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.46bed164.js",
     "static/js/2.0f63c3c6.chunk.js",
-    "static/css/main.a02dad8d.chunk.css",
-    "static/js/main.080f7760.chunk.js"
+    "static/css/main.e7a65272.chunk.css",
+    "static/js/main.04e39d22.chunk.js"
   ]
 }
