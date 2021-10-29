@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;       
+    box-sizing: border-box;  
+    font-family: 'ubuntu';                                                                         
+}
+
+.container{
+    background-color: #FDF9C4;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.info{
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center; 
+}
+.info h1{
+    font-size: 3rem;
+}
+.info h2{
+    font-size: 1.6rem;
+}
+.info h3{
+    font-size: 1.4rem;
+}
+.icon{
+   font-size: 6rem;
+   margin-bottom: 1.5rem;
+}
+.form-container{
+    background-color: #FFDA9E;
+    margin: 0 40px 0 40px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+.form-container :nth-child(1){
+    margin-bottom: 1.3rem;
+}
+.input-container{
+    display : grid;
+    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
+    
+    text-align: center;
+}
+.label{
+    font-size: 1.3rem;
+}
+.input{
+    border-radius: 5px;  
+    height: 1.3rem;
+}
+.container-button{
+    margin-top: 1.5rem;
+    display: block;
+    text-align: center;
+}
+.button{
+    background-color: #FFB140;
+    color: black;
+    border-radius:10px;
+    border: 1px solid #FFFFFF;
+    font-size: 1.5rem;
+    padding:0.5rem;
+}
+.button:hover {
+    cursor: pointer;
+    background-color: #e48826;
+  }
+
+@media (max-width: 320px){
+    .info{
+        margin-bottom: 0;
+         
+    }
+    .icon{
+        font-size: 6rem;
+        margin-bottom: 0;
+     }
+
+}
