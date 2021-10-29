@@ -48,7 +48,7 @@ const Index = () => {
                     {nextBirthday === undefined?(
                         null
                     ):(   
-                        <p className="message">{name}, your next math Birthday is your {nextBirthday[1]}-day-old birthday on {nextBirthday[0].toDateString()}</p>
+                        <p>{name}, your next math Birthday is your {nextBirthday[1]}-day-old birthday on {nextBirthday[0].toDateString()} !</p>
                     )}
                 </form>
             </div>
